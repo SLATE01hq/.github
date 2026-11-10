@@ -1,12 +1,9 @@
-## Hi there 👋
+## Overview 👋
 
-<!--
+SLATE01 is a software company building accessible technology products while creating paid, grant funded, hands-on learning opportunities for emerging developers and engineers. Focusing on real world opportunities for underrepresented communities.
 
-**Here are some ideas to get you started:**
+**Specialties**<Br>
+Google Cloud Platform , Application Development, CI/CD, Firebase, SaaS, Automation, Testing, Cloud, Microcontrollers, Embedded Engineering, DevOps, Infrastructure, System Infrastructure, and IoT
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+**Founded**<br>
+2025
